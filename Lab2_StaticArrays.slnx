@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lab2_StaticArrays/Lab2_StaticArrays.vcxproj" Id="81f6bf2d-ccb4-4850-9454-9d6f603898e7" />
+</Solution>
